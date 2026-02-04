@@ -11,6 +11,8 @@
 
 [Installation](#-installation) • [Configuration](#-configuration) • [Utilisation](#-utilisation) • [Fonctionnalités](#-fonctionnalités)
 
+<img src="https://media.discordapp.net/attachments/1468704863247536229/1468741081586995396/IMG_7730.png?ex=69851f39&is=6983cdb9&hm=8b343d72dbeb9e62a038b769235c6e093e80e789a03e7e6945219c8922670c12&=&format=webp&quality=lossless&width=900&height=1246" width="200" alt="Description" />
+
 </div>
 
 ---
