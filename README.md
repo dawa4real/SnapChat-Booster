@@ -367,15 +367,13 @@ Snapchat demande de vérifier que vous êtes humain
 snapchbot/
 │
 ├── 📄 snap.py              # Script principal du bot
-├── 📄 config.txt           # Configuration (à créer manuellement)
+├── 📄 config.txt           # Configuration 
 │
-├── 🔧 setup.bat            # Installation auto (Windows)
-├── 🔧 setup.sh             # Installation auto (Linux/Mac)
-├── 🚀 start.bat            # Lancement rapide (Windows)
+├── 🔧 setup.bat            # Installation auto 
+├── 🚀 start.bat            # Lancement rapide 
 │
-├── 📋 requirements.txt     # Dépendances Python
 ├── 📖 README.md            # Cette documentation
-└── 📜 LICENSE              # Licence MIT
+└── 📜 Star.gif              # Licence MIT
 ```
 
 
